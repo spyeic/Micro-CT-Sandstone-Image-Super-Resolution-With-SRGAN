@@ -14,5 +14,5 @@
 </ul>
 <h2>Dataset Visualization</h2>
 <p align="center">
-<img src="https://github.com/NavinBondade/Micro-CT-Sandstone-Image-Super-Resolution-With-SRGAN/blob/main/Graphs/Dataset.png" width="500" height="500">
+<img src="https://github.com/NavinBondade/Micro-CT-Sandstone-Image-Super-Resolution-With-SRGAN/blob/main/Graphs/Dataset.png" width="550" height="500">
 </p>
