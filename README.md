@@ -28,5 +28,15 @@
 <p align="center">
 <img src="https://github.com/NavinBondade/Micro-CT-Sandstone-Image-Super-Resolution-With-SRGAN/blob/main/Graphs/SRGAN.png">
 </p>
+<h2>Model Training & Testing</h2>   
+<p>The generator loss was 13.67 discriminator loss for fake images was 0.46 and for real images was 0.98.</p>
+<h4>Generator Loss:</h4>   
+<p align="center">
+<img src="https://github.com/NavinBondade/Micro-CT-Sandstone-Image-Super-Resolution-With-SRGAN/blob/main/Graphs/Generator%20Loss.png" width="1000" height="350">
+</p>
+<h4>Discriminator Loss:</h4>  
+<p align="center">
+<img src="https://github.com/NavinBondade/Micro-CT-Sandstone-Image-Super-Resolution-With-SRGAN/blob/main/Graphs/Discriminator%20Loss.png" width="1000" height="350">
+</p>
 
 
