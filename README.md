@@ -24,16 +24,7 @@
 </p>
 <h2>Model Details</h2>
 <p>The model has been trained on a sandstone micro-ct image dataset for 30 epochs. The dataset comprises downscaled images of sandstone with the shape of (64,64,3) and upscaled images of (256,256,3). The model used binary cross entropy and mean squared error as a loss function and Adam as the optimizer.</p>
-<h2>Model Architecture</h2>  
-<h4>Generator:</h4>   
-<p align="center">
-<img src="https://github.com/NavinBondade/Micro-CT-Sandstone-Image-Super-Resolution-With-SRGAN/blob/main/Graphs/Generator.png">
-</p>
-<h4>Generator:</h4>   
-<p align="center">
-<img src="https://github.com/NavinBondade/Micro-CT-Sandstone-Image-Super-Resolution-With-SRGAN/blob/main/Graphs/Discriminator.png">
-</p>
-<h4>SRGAN:</h4>   
+<h2>Model Architecture</h2>   
 <p align="center">
 <img src="https://github.com/NavinBondade/Micro-CT-Sandstone-Image-Super-Resolution-With-SRGAN/blob/main/Graphs/SRGAN.png">
 </p>
