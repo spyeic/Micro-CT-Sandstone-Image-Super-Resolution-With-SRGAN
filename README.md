@@ -1,1 +1,1 @@
-# Micro-CT-Sandstone-Super-Image-Super-Resolution-With-Super-Resolution-GAN-SRGAN-
+# Micro-CT Sandstone Super Image Super-Resolution With SRGAN
