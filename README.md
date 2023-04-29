@@ -17,7 +17,7 @@
 <img src="https://github.com/NavinBondade/Micro-CT-Sandstone-Image-Super-Resolution-With-SRGAN/blob/main/Graphs/Data2.png" width="550" height="500">
 </p>
 <p align="center">
-<img src="https://github.com/NavinBondade/Micro-CT-Sandstone-Image-Super-Resolution-With-SRGAN/blob/main/Graphs/data_2.png" width="550" height="500">
+<img src="https://github.com/NavinBondade/Micro-CT-Sandstone-Image-Super-Resolution-With-SRGAN/blob/main/Graphs/data_2.png" width="550" height="600">
 </p>
 <h2>What is Super Resolution GAN?</h2>
 <p>Super-resolution GAN applies a deep network in combination with an adversary network to produce higher resolution images. During the training, A high-resolution image (HR) is downsampled to a low-resolution image (LR). A GAN generator upsamples LR images to super-resolution images (SR). We use a discriminator to distinguish the HR images and backpropagate the GAN loss to train the discriminator and the generator.</p>
