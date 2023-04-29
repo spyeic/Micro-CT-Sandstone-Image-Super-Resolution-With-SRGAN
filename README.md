@@ -41,6 +41,10 @@
 <p align="center">
 <img src="https://github.com/NavinBondade/Micro-CT-Sandstone-Image-Super-Resolution-With-SRGAN/blob/main/Graphs/Discriminator%20Loss.png" width="1000" height="350">
 </p>
+<h2>Model Prediction</h2>
+<p align="center">
+<img src="https://github.com/NavinBondade/Micro-CT-Sandstone-Image-Super-Resolution-With-SRGAN/blob/main/Graphs/Output.png" width="800" height="1200">
+</p>
 <h2>Conclusion</h2>  
 <p>In this project, I have implemented and trained SRGAN deep learning model for performing sandtone image upscaling from the resolution of 64x64 to 256x256.</p>  
 
