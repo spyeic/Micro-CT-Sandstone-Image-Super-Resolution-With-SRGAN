@@ -1,0 +1,13 @@
+tensorflow==10.2.0; sys_platform == 'win32'
+tensorflow; sys_platform != 'win32'
+pillow
+graphviz
+pydot
+tqdm
+seaborn
+keras
+scikit-learn
+pandas
+matplotlib
+numpy
+opencv-python
